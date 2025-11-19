@@ -1,12 +1,15 @@
 # About me
 
 &nbsp; &nbsp; \#
+
 &nbsp; \###
+
 \#####
 
-
  &nbsp;&nbsp;☺
+ 
  &nbsp;&nbsp;/|\\
+ 
  &nbsp;&nbsp;/ \
 
 
